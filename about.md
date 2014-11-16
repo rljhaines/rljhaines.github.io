@@ -12,4 +12,4 @@ I am a marathon runner and I also enjoy bicycling and kayaking and hiking and sw
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email](mailto:rljhaines@gmail.com)
