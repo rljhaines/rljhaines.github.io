@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a computer professional from days gone by working my way back onto th scene!
+I am a computer professional from days gone by working my way back onto the scene!
 
 ### More Information
 
