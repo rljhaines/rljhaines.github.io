@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a computer professional from days gone by working my way back onto th scene!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+I am a marathon runner and I also enjoy bicycling and kayaking and hiking and swimming. I bring a passion for excellence to all my endeavors.
 
 ### Contact me
 
