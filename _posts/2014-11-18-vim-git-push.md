@@ -17,3 +17,5 @@ Uh oh, now I can't open this file for editing... need to figure that out first!!
 ! Ah ha! typo in path, trying again!!!
 
 This pushed to github, but did not push through to the blog. For now I hope this modification will allow it to push through (vi Jekyll i believe) to rljhaines.github.io.
+
+Okay, that didn't work. I will give the file a name suffixed to the current date moniker.
