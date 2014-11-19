@@ -19,3 +19,7 @@ Uh oh, now I can't open this file for editing... need to figure that out first!!
 This pushed to github, but did not push through to the blog. For now I hope this modification will allow it to push through (vi Jekyll i believe) to rljhaines.github.io.
 
 Okay, that didn't work. I will give the file a name suffixed to the current date moniker.
+
+Okay, that worked. Did I not read carefully enough to know the naming requirement for Jekyll? Hmmmmm....
+
+Now I will see if these changes I'm now entering into this properly-named post will push through to the blog!
