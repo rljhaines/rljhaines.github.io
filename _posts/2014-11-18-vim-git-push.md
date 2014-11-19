@@ -24,4 +24,4 @@ Okay, that worked. Did I not read carefully enough to know the naming requiremen
 
 Now I will see if these changes I'm now entering into this properly-named post will push through to the blog!
 
-Sure enough!!! git add, commit, push gets the job done :)
+Sure enough!!! git add, commit, push gets the job done :-)
