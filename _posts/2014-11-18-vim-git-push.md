@@ -22,4 +22,5 @@ Okay, that didn't work. I will give the file a name suffixed to the current date
 
 Okay, that worked. Did I not read carefully enough to know the naming requirement for Jekyll? Hmmmmm....
 
+Sure enough!!! git add, commit, push gets the job done :)
 Now I will see if these changes I'm now entering into this properly-named post will push through to the blog!
